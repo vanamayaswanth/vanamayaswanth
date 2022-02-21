@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/vanamayaswanth?tab=repositories)
 ![GitHub followers](https://img.shields.io/github/followers/vanamayaswanth?style=social)
 
-<h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
+<h2 align="center"><img src="img/Pink And Green Motivation Quote LinkedIn Banner.gif"></h2>
 
 <h2> About me</h2>
 
