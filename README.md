@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanamayaswanth)
 [![kaggle](https://road-to-kaggle-grandmaster.vercel.app/api/simple/vanamayaswanth)](https://www.kaggle.com/vanamayaswanth)
 [![GitHub](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/vanamayaswanth?tab=repositories)
-![GitHub followers](https://img.shields.io/github/followers/vanamayaswanth?style=social)
+<!-- ![GitHub followers](https://img.shields.io/github/followers/vanamayaswanth?style=social) -->
 
 
 <h2 align="center"><img src="img/Pink And Green Motivation Quote LinkedIn Banner.gif"></h2>
