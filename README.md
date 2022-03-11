@@ -1,5 +1,9 @@
 <h2 align="center">Hi, I'm Vanama Yaswanth  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
 
+<p align="center">
+  <a href=[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calluna&color=3C38F7&background=090906F2&center=true&lines=Data+Scientist+%26%26+ML+Expert)](https://git.io/typing-svg)></a>
+</p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanamayaswanth)
 [![kaggle](https://road-to-kaggle-grandmaster.vercel.app/api/simple/vanamayaswanth)](https://www.kaggle.com/vanamayaswanth)
 [![GitHub](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/vanamayaswanth?tab=repositories)
