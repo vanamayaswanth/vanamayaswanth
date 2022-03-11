@@ -57,6 +57,11 @@ Expertise: Machine Learning Expert, Data Analysis Techquines, Data Visualization
   
 </p>
 
+
+ <!--<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="vanama-yaswanth-560612184" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/vanama-yaswanth-560612184?trk=profile-badge">Vanama Yaswanth</a></div> -->
+
+
 <!--
 <h3> Tech skills<h3>
   
